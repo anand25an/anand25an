@@ -1,3 +1,8 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/anand25an)
+<h1 align="center">Hi 👋, I'm ANAND PATEL</h1>
+<h3 align="center">A passionate React developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cutt.ly/XN4CUFE" />
+
 # 💫 About Me:
 ⦿ 🔭 I’m currently working on ** React Devloper **<br><br>⦿ 🌱 I’m currently learning Frontend<br><br>⦿ 💬 Ask me about html,css,javascript,bootstrap,React Js<br><br>⦿ 📫 How to reach me patelanand252003@gmail.com<br><br>⦿ ⚡ Fun fact I am funny
 
