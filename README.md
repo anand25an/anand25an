@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm ANAND PATEL</h1>
 <h3 align="center">A passionate React developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ECX3QphS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AzKcKlO3LuHbEBD2e.jpg" />
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ECX3QphS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AzKcKlO3LuHbEBD2e.jpg" />
 
 # 💫 About Me:
 ⦿ 🔭 I’m currently working on ** React Devloper **<br><br>⦿ 🌱 I’m currently learning Frontend<br><br>⦿ 💬 Ask me about html,css,javascript,bootstrap,React Js<br><br>⦿ 📫 How to reach me patelanand252003@gmail.com<br><br>⦿ ⚡ Fun fact I am funny
