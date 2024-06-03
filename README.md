@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--ECX3QphS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AzKcKlO3LuHbEBD2e.jpg)](https://github.com/anand25an)
+<div align="center">![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--ECX3QphS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AzKcKlO3LuHbEBD2e.jpg)](https://github.com/anand25an)</div>
 <h1 align="center">Hi 👋, I'm ANAND PATEL</h1>
 <h3 align="center">A passionate React developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ECX3QphS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AzKcKlO3LuHbEBD2e.jpg" />
